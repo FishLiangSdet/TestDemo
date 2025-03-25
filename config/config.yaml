@@ -1,0 +1,4 @@
+base_url: "https://reqres.in/"
+headers:
+  Content-Type: "application/json"
+#  Authorization: "Bearer YOUR_TOKEN"
